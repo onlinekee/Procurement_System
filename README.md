@@ -5,3 +5,8 @@ This project is implemented using C# for a Web based Procurement Management Syst
 Following functions are implemented
 * Create a procurement 
 * Manage a procurement
+* Authorize procument
+* Remove procument
+* Get reports
+
+
